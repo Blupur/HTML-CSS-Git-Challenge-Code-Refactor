@@ -1,3 +1,3 @@
 # HTML CSS Git Challenge Code Refactor
 Challenge 1 
-Added semantic elements and alt text
+Code that has been updated to meet accessability standards
